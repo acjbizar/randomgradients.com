@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
-<url>
-<loc>http://randomgradients.com/</loc>
-<priority>1.0</priority>
-<lastmod>2015-08-25</lastmod>
-<changefreq>never</changefreq>
-</url>
+    <url>
+        <loc>https://randomgradients.com/</loc>
+        <priority>1.0</priority>
+        <lastmod>2019-07-28</lastmod>
+        <changefreq>never</changefreq>
+    </url>
 </urlset>
