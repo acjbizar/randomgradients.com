@@ -1,1 +1,1 @@
-sitemap: https://randomgradients.com/sitemap.xml
+Sitemap: https://randomgradients.com/sitemap.xml

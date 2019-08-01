@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190801",
+    "name": "Random Gradients",
+    "default_locale": "en",
+    "description": "Click or tap the shuffle icon to see another gradient. Gradients can be horizontal, vertical, or radial, but are always colorful.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "#000000",
+    "homepage_url": "https://randomgradients.com/",
+    "start_url": "https://randomgradients.com/",
+    "icons": [
+        {
+            "src": "https://randomgradients.com/apple-touch-icon-precomposed.png"
+        }
+    ],
+    "display": "fullscreen"
+}
