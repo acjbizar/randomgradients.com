@@ -64,6 +64,7 @@
 </head>
 <body>
 <a class="fi-shuffle"  href="https://randomgradients.com/"></a>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6227584-61"></script>
 <script>
     "use strict";
 
@@ -149,6 +150,12 @@
     }
 
     random_gradient();
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-6227584-61');
 </script>
 </body>
 </html>
